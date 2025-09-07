@@ -1,6 +1,7 @@
 Website on "Recipes" using only html (for now)
 
 Credits for pictures:  
+
 -Lasagna: Karolina Kołodziejczak 
 (https://unsplash.com/@rabbit_in_blue)  
 
